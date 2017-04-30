@@ -48,7 +48,7 @@
         android:hint="Enter Date Of Birth"
         android:layout_marginLeft="8dp"
         app:layout_constraintLeft_toLeftOf="parent"
-        android:layout_marginRight="8dp"
+        android:layout_marginRight="16dp"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintHorizontal_bias="0.052"
         android:layout_marginTop="8dp"
